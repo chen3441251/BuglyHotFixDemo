@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">h5callCameraLibrary</string>
+    <string name="camera_tips">拍照权限未开启,请去系统设置权限管理开启</string>
+</resources>
